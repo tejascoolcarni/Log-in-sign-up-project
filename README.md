@@ -47,6 +47,6 @@ It has a label where security question is displayed. Subsequently there are thre
 
 2) Log in and Sign Up - These two buttons are bound to their respective call_newscreen( ) function as explained above. Log in button closes the current page opens log in page, sign up button closes the current page opens sign up page.
 
-This programme works with lots of user inputs, which means there chances of errors and wrong inputs by users. I have tried to include as many test cases as possible. Try this project and let me know your views!
+This programme works with lots of user inputs, which means there are chances of errors and wrong inputs by users. I have tried to include as many test cases as possible. Try this project and let me know your views!
 
 This was the overall working of this project in brief, if you have any doubts, suggestions or you find any bugs you can always ping me on tejascoolcarni@gmail.com !
