@@ -3,7 +3,7 @@
 About:
 
 This is a user authentification system. There is a log-in page, sign-up page, forgot password page, and an empty page for the project.
-I have used Tkinter for the user interface, sqlite3 for the database, OS module for switching between windows, pillow module for setting up the background image, and 're' package from Regex module for email authentification.
+I have used Tkinter for the user interface, sqlite3 for the database, OS module for switching between windows, pillow module for setting up the background image and Regex module for email authentification.
 
 Note: Download all files and store them in a single folder. Open the sign up page and test it!
 
